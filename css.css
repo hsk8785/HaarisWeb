@@ -10,7 +10,7 @@
 body{
   font-family: montessarat;
   background: url("bg1.jpg") no-repeat;
-  background-size:100% 115%;
+  background-size:cover;
   height: calc(100vh - 80px);
 }
 
